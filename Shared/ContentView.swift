@@ -35,3 +35,8 @@ struct ContentView_Previews: PreviewProvider {
 
 
 //app store version2
+
+
+
+
+//一些灵感 暂时不提交 用stash暂存
